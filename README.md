@@ -3,3 +3,5 @@ In the realm_contributions.py project, I learned how to send emails using SMS ga
 read data from a google sheets document. Not included in the repository is a file to read login information from a credentials account as 
 well as a key to connect to said services. The purpose of this project was to maintain and track a list of people who would be sharing a Minecraft
 server and send reminders of payment contributions due and notify the host of late payments.
+
+This project was inspired by a social need and aided by the help of a loved book [Automate the Boring Stuff](https://automatetheboringstuff.com/)
